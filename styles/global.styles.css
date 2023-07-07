@@ -1,0 +1,34 @@
+:root {
+  --header-height: 70px;
+}
+
+html {
+  min-height: calc(100vh - var(--header-height));
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  padding: 20px 0;
+}
+
+section {
+  padding: 50px 0;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: #0a4125;
+  border-color: #0a4125;
+}
+
+a {
+  color: #0a4125;
+}

@@ -1,7 +1,3 @@
-# lps-play-peer
-
-Projeto fintech FIAP
-
 # LPS Play Peer
 
 ## Descrição
